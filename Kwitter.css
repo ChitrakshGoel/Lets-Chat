@@ -1,6 +1,6 @@
 body 
 {
-    background-image: linear-gradient(to right top, #4d4d4d, #4d4d4d, #4d4d4d, #4d4d4d, #4d4d4d);
+    background-image: linear-gradient(to right top, #686868, #686868, #686868, #686868, #686868);
 }
 
 #d1 
@@ -24,4 +24,27 @@ img
 #login_button 
 {
      margin-bottom: 10;
+}
+
+#d11 
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(128, 128, 128);
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    text-align: center;
+}
+
+#room_name {
+    margin-top: 5;
+    margin-bottom: 10;
+    margin-left: 5;
+    margin-right: 5;
+}
+
+#label {
+    margin-top: 10;
 }
